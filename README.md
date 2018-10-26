@@ -1,6 +1,5 @@
-#Leaderboard project
-
-#Authors: Jacob O'Dell, Austin Anderson, Zeb Cunningham, Matthew Willis
+# Leaderboard Project
+# Authors: Jacob O'Dell, Austin Anderson, Zeb Cunningham, Matthew Willis
 
 
 This project is made to take student's information from an excel file, and display a leaderboard of grades
