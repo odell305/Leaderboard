@@ -9,3 +9,5 @@ The student and course information may be retrieved through the command line, as
 
 A graphical interface is also included with the ability for users to look up the top performing students.
 The interface is a bar graph, and each bar can be clicked on to see a student's information.
+
+A flow chart is included in a powerpoint to explain the process the program takes to perform these tasks.
